@@ -1,0 +1,17 @@
+[
+{
+  "modid": "netherredux",
+  "name": "Nether Redux",
+  "description": "It be doin what I want it to do and it ain't do no more than I want it to.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Leslie110501"],
+  "credits": "Leslie110501",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+  
+}
+]
